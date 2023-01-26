@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 3869506 */
-  src: url('//at.alicdn.com/t/c/font_3869506_jbihobsg7d9.woff2?t=1674666332628') format('woff2'),
-       url('//at.alicdn.com/t/c/font_3869506_jbihobsg7d9.woff?t=1674666332628') format('woff'),
-       url('//at.alicdn.com/t/c/font_3869506_jbihobsg7d9.ttf?t=1674666332628') format('truetype');
+  src: url('//at.alicdn.com/t/c/font_3869506_yeqw0tb1mgd.woff2?t=1674741415149') format('woff2'),
+       url('//at.alicdn.com/t/c/font_3869506_yeqw0tb1mgd.woff?t=1674741415149') format('woff'),
+       url('//at.alicdn.com/t/c/font_3869506_yeqw0tb1mgd.ttf?t=1674741415149') format('truetype');
 }
 
 .iconfont {
@@ -22,9 +22,16 @@
   color: blue;
 }
 
+/*
 .icon-shareqqzone:before {
   content: "\e619";
   color: orange;
+}
+*/
+
+.icon-qq:before {
+  content: "\e66a";
+  color: blue;
 }
 
 .icon-icon_bilibili:before {
