@@ -5,7 +5,7 @@
 # Site
 title: なごり雪
 subtitle: 'hexo'
-description: ''
+description: '願いを告げ　世界を知り'
 keywords:
 author: cocoa
 language: zh-CN
@@ -99,6 +99,15 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: butterfly
+
+#RSS订阅
+plugin:
+- hexo-generator-feed
+#Feed Atom
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
