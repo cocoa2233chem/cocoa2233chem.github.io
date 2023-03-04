@@ -1,0 +1,65 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3869506 */
+  src: url('//at.alicdn.com/t/c/font_3869506_xiic7vfqtto.woff2?t=1674813493247') format('woff2'),
+       url('//at.alicdn.com/t/c/font_3869506_xiic7vfqtto.woff?t=1674813493247') format('woff'),
+       url('//at.alicdn.com/t/c/font_3869506_xiic7vfqtto.ttf?t=1674813493247') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 22px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zhiyinmulu:before {
+  content: "\e687";
+}
+
+.icon-github:before {
+  content: "\e63a";
+}
+
+.icon-email-fill:before {
+  content: "\e77e";
+  color: blue;
+}
+
+/*
+.icon-shareqqzone:before {
+  content: "\e619";
+  color: orange;
+}
+*/
+
+.icon-qq:before {
+  content: "\e66a";
+  color: blue;
+}
+
+.icon-icon_bilibili:before {
+  content: "\e600";
+  color: pink;
+  font-size: 26px;
+}
+
+.icon-wechat:before {
+  content: "\e629";
+  color: green;
+}
+
+/* 卡片处小图标 
+.card_icon {
+  color: orange;
+  font-size: 22px; 
+}
+*/
+
+.icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
