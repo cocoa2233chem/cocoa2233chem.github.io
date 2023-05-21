@@ -23,12 +23,17 @@
     <published>2023-03-05T03:15:29.000Z</published>
     <updated>2023-03-05T07:37:45.366Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Molecular-Machine"><a href="#Molecular-Machine" class="headerlink" title="Molecular Machine"></a>Molecular Machine</h1><p>The Nobel Prize in Chemistry 2016.</p><hr><h1 id="Nanocar-Race"><a href="#Nanocar-Race" class="headerlink" title="Nanocar Race"></a>Nanocar Race</h1><p>Introduction from official website:</p><blockquote><p>Nanocar drivers use electrons from the tip of a scanning tunnelling microscope (STM) to help jolt their molecules along, typically by just tenth of nanometers each time, so that the nanocar race takes place on a very small scale. With about 100-1000 atoms and a lateral size of a few nanometers, a nanocar is a molecule with a distinguishable front and rear. Its chemical structure allows the nanocar to move on a surface when electrons flow through it from the STM tip. The propulsion mechanism can be either inelastic (related to the excitation of vibrational modes or to current-induced structural changes) or dipolar, resulting from the repulsion or attraction between the nanocar and the STM tip.</p></blockquote><h2 id="Nanocar-Race-I"><a href="#Nanocar-Race-I" class="headerlink" title="Nanocar Race I"></a>Nanocar Race I</h2><p>The first-ever race of molecule-cars - Toulouse (France), 28-29 April 2017.<br><br>See the following link for details:<br><a href="http://nanocar-race.cnrs.fr/">http://nanocar-race.cnrs.fr</a> link to Youtube<br><a href="http://www.cemes.fr/Molecule-car-Race">http://www.cemes.fr/Molecule-car-Race</a></p><h2 id="Nanocar-Race-II"><a href="#Nanocar-Race-II" class="headerlink" title="Nanocar Race II"></a>Nanocar Race II</h2><p>The second international Nanocar Race (Nanocar Race II) took place from the 24/3/2022, 11:00 a.m. to the 25/03/2022, 11:00 a.m 24h non-stop.<br>Eight international teams from Europe, Asia and America competed at the same time in a remote controlled mode from the CEMES-CNRS G. Dupouy-Campus in Toulouse (France).<br><br>See the following link for details:<br><a href="https://www.memo-project.eu/flatCMS/index.php/Nanocar-Race-II">https://www.memo-project.eu/flatCMS/index.php/Nanocar-Race-II</a></p>]]></content>
+    <content type="html"><![CDATA[<h1>Molecular Machine</h1><p>The Nobel Prize in Chemistry 2016.</p><hr><h1>Nanocar Race</h1><p>Introduction from official website:</p><blockquote><p>Nanocar drivers use electrons from the tip of a scanning tunnelling microscope (STM) to help jolt their molecules along, typically by just tenth of nanometers each time, so that the nanocar race takes place on a very small scale. With about 100-1000 atoms and a lateral size of a few nanometers, a nanocar is a molecule with a distinguishable front and rear. Its chemical structure allows the nanocar to move on a surface when electrons flow through it from the STM tip. The propulsion mechanism can be either inelastic (related to the excitation of vibrational modes or to current-induced structural changes) or dipolar, resulting from the repulsion or attraction between the nanocar and the STM tip.</p></blockquote><h2 id="Nanocar-Race-I">Nanocar Race I</h2><p>The first-ever race of molecule-cars - Toulouse (France), 28-29 April 2017.<br><br>See the following link for details:<br><a href="http://nanocar-race.cnrs.fr">http://nanocar-race.cnrs.fr</a> link to Youtube<br><a href="http://www.cemes.fr/Molecule-car-Race">http://www.cemes.fr/Molecule-car-Race</a></p><h2 id="Nanocar-Race-II">Nanocar Race II</h2><p>The second international Nanocar Race (Nanocar Race II) took place from the 24/3/2022, 11:00 a.m. to the 25/03/2022, 11:00 a.m 24h non-stop.<br>Eight international teams from Europe, Asia and America competed at the same time in a remote controlled mode from the CEMES-CNRS G. Dupouy-Campus in Toulouse (France).<br><br>See the following link for details:<br><a href="https://www.memo-project.eu/flatCMS/index.php/Nanocar-Race-II">https://www.memo-project.eu/flatCMS/index.php/Nanocar-Race-II</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;Molecular-Machine&quot;&gt;&lt;a href=&quot;#Molecular-Machine&quot; class=&quot;headerlink&quot; title=&quot;Molecular Machine&quot;&gt;&lt;/a&gt;Molecular Machine&lt;/h1&gt;&lt;p&gt;The Nobel </summary>
+    <summary type="html">&lt;h1&gt;Molecular Machine&lt;/h1&gt;
+&lt;p&gt;The Nobel Prize in Chemistry 2016.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1&gt;Nanocar Race&lt;/h1&gt;
+&lt;p&gt;Introduction from official website:&lt;/p&gt;
+&lt;</summary>
       
     
     
@@ -55,15 +60,18 @@
     <published>2023-01-24T16:52:23.000Z</published>
     <updated>2023-01-27T11:29:33.468Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Chem"><a href="#Chem" class="headerlink" title="Chem"></a>Chem</h1><hr><hr><p>Welcome to Chemistry!</p><p>Introduction to Quantum Chemistry<br><br>                      — by duke 2023/01/25<br></p><h1 id="History-of-wave-function"><a href="#History-of-wave-function" class="headerlink" title="History of wave function"></a>History of wave function</h1><hr><hr><h2 id="Schrodinger"><a href="#Schrodinger" class="headerlink" title="Schrodinger"></a>Schrodinger</h2><hr><h2 id="Wave-function"><a href="#Wave-function" class="headerlink" title="Wave function"></a>Wave function</h2><hr><h1 id="Density-functional-theory"><a href="#Density-functional-theory" class="headerlink" title="Density functional theory"></a>Density functional theory</h1><hr>]]></content>
+    <content type="html"><![CDATA[<h1>Chem</h1><hr><hr><p>Welcome to Chemistry!</p><p>Introduction to Quantum Chemistry<br><br>— by duke 2023/01/25<br></p><h1>History of wave function</h1><hr><hr><h2 id="Schrodinger">Schrodinger</h2><hr><h2 id="Wave-function">Wave function</h2><hr><h1>Density functional theory</h1><hr>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;Chem&quot;&gt;&lt;a href=&quot;#Chem&quot; class=&quot;headerlink&quot; title=&quot;Chem&quot;&gt;&lt;/a&gt;Chem&lt;/h1&gt;&lt;hr&gt;
+    <summary type="html">&lt;h1&gt;Chem&lt;/h1&gt;
+&lt;hr&gt;
 &lt;hr&gt;
 &lt;p&gt;Welcome to Chemistry!&lt;/p&gt;
-&lt;p&gt;Introduction to Quantum</summary>
+&lt;p&gt;Introduction to Quantum Chemistry&lt;br&gt;&lt;br&gt;
+— by duke 2023/01/25&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;History o</summary>
       
     
     
@@ -82,12 +90,13 @@
     <published>2023-01-07T14:56:14.000Z</published>
     <updated>2023-01-23T10:01:59.663Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="TEST"><a href="#TEST" class="headerlink" title="TEST"></a>TEST</h1>]]></content>
+    <content type="html"><![CDATA[<h1>TEST</h1>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;TEST&quot;&gt;&lt;a href=&quot;#TEST&quot; class=&quot;headerlink&quot; title=&quot;TEST&quot;&gt;&lt;/a&gt;TEST&lt;/h1&gt;</summary>
+    <summary type="html">&lt;h1&gt;TEST&lt;/h1&gt;
+</summary>
       
     
     
@@ -102,7 +111,7 @@
     <published>2023-01-07T13:31:54.158Z</published>
     <updated>2023-01-07T13:27:21.395Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
       
