@@ -80,8 +80,8 @@ mathjax:
 
 # KaTeX
 katex:
-  enable: false
-  per_page: false
+  enable: true
+  per_page: true
   hide_scrollbar: true
 
 # Image (圖片設置)
@@ -136,7 +136,7 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    # - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+     - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
@@ -278,11 +278,11 @@ addtoany:
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
-  use: Valine,Disqus
+  use: Twikoo,Valine
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
-  lazyload: true
+  lazyload: false
   count: true # Display comment count in post's top_img
   card_post_count: false # Display comment count in Home Page
 
@@ -318,11 +318,22 @@ gitalk:
 # valine
 # https://valine.js.org
 valine:
-  appId: # leancloud application app id
-  appKey: # leancloud application app key
+  appId: JhEPpXA34QpYYDHj1laWIwZx-MdYXbMMI # leancloud application app id
+  appKey: l5qYreiz69sBJjRG8WyasYqX # leancloud application app key
+  pageSize: 10 # comment list page size
   avatar: monsterid # gravatar style https://valine.js.org/#/avatar
-  serverURLs: # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
+  lang: zh-CN # i18n: zh-CN/zh-TW/en/ja
+  placeholder: Please leave your footprints # valine comment input placeholder(like: Please leave your footprints )
+  guest_info: nick,mail,link #valine comment header info (nick/mail/link)
+  recordIP: false # Record reviewer IP
+  serverURLs: https://jheppxa3.api.lncldglobal.com # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
   bg: # valine background
+  emojiCDN: # emoji CDN
+  enableQQ: true # enable the Nickname box to automatically get QQ Nickname and QQ Avatar
+  requiredFields: nick,mail # required fields (nick/mail)
+  friends:
+  master:
+  tagMeta: '博主,小伙伴,访客'
   visitor: false
   option:
 
@@ -356,7 +367,7 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId:
+  envId: hexo-chem2233-9gcnrus1d0f6745a
   region:
   visitor: false
   option:
@@ -406,8 +417,8 @@ chatra:
 # tidio
 # https://www.tidio.com/
 tidio:
-  enable: false
-  public_key:
+  enable: true
+  public_key: j5l6apaizjbl2vsy3rtkzq4yefxcrrga
 
 # daovoice
 # http://dashboard.daovoice.io/app
@@ -900,7 +911,9 @@ inject:
     - <link rel="stylesheet" href="/css/iconfont.css">
     - <link rel="stylesheet" href="/css/scrollbar.css">
     - <link rel="stylesheet" href="/css/background.css">
-    # - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.css"> 
+    - <link rel="stylesheet" href="https://lib.baomitu.com/KaTeX/latest/katex.min.css">
+      #- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css">
+      # - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.css"> 
   bottom:
     # - <script src="xxxx"></script>
     - <script src='/js/background.js'></script>
